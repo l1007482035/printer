@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ghostpcl">
+</Property><Property Name="解决方案文件" Value="F:\迅雷下载\ghostscript-9.21\windows\ghostpcl.sln">
+</Property><Property Name="Date" Value="2017年5月18日">
+</Property><Property Name="Time" Value="18:06:47">
+</Property><Property Name="日志号" Value="3">
+</Property></Properties><Event ErrorLevel="1" Project="ghostpcl" Source="ghostpcl.vcproj" Description="此应用程序已更新，包含了与 Windows Vista 的用户帐户控制(UAC)功能相关的设置。默认情况下，当运行在启用了 UAC 的 Windows Vista 上时，此应用程序被标记为以与启动它的进程相同的权限运行。此标记还禁止应用程序以虚拟化方式运行。您可以从此项目的属性页中更改与 UAC 相关的设置。">
+</Event><Event ErrorLevel="0" Project="ghostpcl" Source="ghostpcl.vcproj" Description="已成功地将项目文件备份为“F:\迅雷下载\ghostscript-9.21\windows\ghostpcl.vcproj.8.00.old”。">
+</Event><Event ErrorLevel="0" Project="ghostpcl" Source="ghostpcl.vcproj" Description="项目升级成功。">
+</Event><Event ErrorLevel="3" Project="ghostpcl" Source="ghostpcl.vcproj" Description="Converted">
+</Event></UpgradeLog>
